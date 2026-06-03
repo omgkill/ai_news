@@ -6,8 +6,9 @@ import os
 from datetime import datetime
 from pathlib import Path
 
-NEWS_SKILL_PATH = os.path.expanduser("~/.openclaw/skills/news-aggregator-skill/scripts")
-sys.path.insert(0, NEWS_SKILL_PATH)
+# Local module
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, SCRIPT_DIR)
 import fetch_news
 
 # Test fetching

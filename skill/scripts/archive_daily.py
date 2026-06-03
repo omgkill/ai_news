@@ -14,9 +14,9 @@ from pathlib import Path
 import requests
 from xml.etree import ElementTree as ET
 
-# Add news-aggregator-skill to path
-NEWS_SKILL_PATH = os.path.expanduser("~/.openclaw/skills/news-aggregator-skill/scripts")
-sys.path.insert(0, NEWS_SKILL_PATH)
+# Local module
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, SCRIPT_DIR)
 import fetch_news
 
 # Try to import newspaper3k
