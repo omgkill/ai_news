@@ -3,7 +3,7 @@
 - **Source**: Hacker News
 - **URL**: https://www.bloomberg.com/opinion/articles/2026-06-02/ipo-race-look-who-just-crashed-open-ai-and-softbank-s-party
 - **Time**: Today
-- **Heat**: 1 points
+- **Heat**: 2 points
 
 ## Summary
 
