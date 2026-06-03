@@ -1,0 +1,39 @@
+# Sign of the future: GPT-5.5 
+
+- **Source**: One Useful Thing
+- **URL**: https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55
+- **Time**: Thu, 23 Apr 2026 20:00:38 GMT
+- **Heat**: 
+
+## Summary
+
+Sign of the future: GPT-5.5 
+
+## Content
+
+I had early access to GPT-5.5, and I think it is a big deal. It is a big deal because it indicates that we are not done with the rapid improvement in AI. It is also a big deal because it is just plain good. And it is a big deal because even with all of this, the frontier of AI ability remains jagged.
+
+It is increasingly hard to quickly demonstrate each generational change as AI has gotten better, since a lot of the old things AI was bad at, like math or counting letters in words, are now trivial for AI to do. So, I will give you the complicated details, but first, a simple example that I think is a good illustration. What AI models are best at is coding, so I gave a coding challenge to AIs ranging from OpenAI’s first reasoning model, o3 (released a year and a week ago!) to the current best open weights model (Kimi K2.6) to the new GPT-5.5 Pro: “build me a procedurally generated 3D simulation showing the evolution of a harbor town from 3000 BCE to 3000 AD, it should look beautiful and allow me to have some control over it.”
+
+Then I posted every answer to this gallery so you can experiment with them (actually, I had GPT-5.5 Codex build the gallery page for me). You should play with them to feel the difference, but you can see a few of these examples below. In addition to being better along all the other dimensions, only GPT-5.5 Pro actually modelled an evolving town, rather than just generating new building replacements over time. GPT-5.5 Pro is also much faster than its previous iteration: GPT-5.4 Pro took 33 minutes to complete the task, GPT-5.5 Pro took 20.
+
+Models, Apps, and Harnesses
+
+I have been encouraging you to think about AI not as a single thing, but as a set of three interlinked concepts. You need to consider models, like Opus 4.7, Gemini 3.1, or (now) GPT-5.5. You also want to pay attention to apps, which are the products you actually use to talk to a model, and which let models do real work for you. The most common app is the website for each of these models: chatgpt.com, claude.ai, gemini.google.com. But, increasingly, desktop applications like Claude Code, Claude Cowork, and OpenAI Codex are becoming the most useful apps for AI. Finally, there are harnesses, the tools that an AI can use and how the AI models are hooked up to these tools. Tools allow the AI to control your computer, write code, do research, and make images.
+
+OpenAI has made advances in all three areas. On the model front, GPT-5.5 is a powerful family of models, with GPT-5.5 Pro (accessible only on the website) the most competent. There have also been major advances recently in apps, with OpenAI’s Codex increasingly following the path of the excellent Claude Code and making an accessible and useful desktop application. Finally, there are harnesses and the tools they can use. There have been a lot of new harness improvements, but one of the most interesting is from OpenAI, which has a new image model
+
+This new model can now render high-quality text and create almost any picture you can describe. Long-time readers know about my Otter Test, which asks the AI to make an image of an otter on a plane using wifi. Rather than describe it again, let’s let the new image model (sometimes called GPT-imagegen-2) explain it for me: “a photo of an otter scientist demonstrating the results of Ethan Mollick’s otter test, which shows how well an AI image maker can make images of an otter sitting on an airplane using wifi”
+
+Maybe you want to see the academic paper about it? “Show me the first page of the academic paper on the Otter test, well-formatted, sitting on a desk” (feel free to zoom in on the text)
+
+Or maybe we should just make it art? “now show an elaborate art gallery, every image on the walls is an otter on an airplane using a laptop, in the styles of Klimt and Rothko and Matisse and Monet and Picasso and Titian and Rembrandt and O’Keefe. There should be readable labels below each one.” (This is worth zooming in on)
+
+All of this is very cool, and would have been impossible a few months ago, but it is useful as well. An image generator that can make detailed text and images can be used to make PowerPoint slides or product mockups or example websites or anything else you ask for. But this is just one tool, and the real magic happens when you combine harnesses, apps, and models on a real problem. Here's one I've been procrastinating about for a decade.
+
+Bringing it together
+
+I am an academic, and a lot of my non-AI work, especially in the early 2010s, focused on crowdfunding. I have hundreds of anonymized data files on the topic that I have collected from surveys and analysis and research work, a mix of STATA, CSV, XLS and Word files that I never got around to writing a paper about. I wanted to see how far GPT-5.5 could get with this information. So, I used Codex powered by GPT-5.5 and asked: “Help me sort [the data] out and generate a new hypothesis that might be interesting and test it in sophisticated ways and write an academic paper.” 
+
+## Links
+
