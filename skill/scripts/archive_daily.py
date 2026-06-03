@@ -33,7 +33,7 @@ CONFIG = {
     "limit_per_source": 5,
     "repo_path": os.path.expanduser("~/ai_news"),
     "auto_push": True,
-    "max_content_length": 5000,
+    "max_content_length": None,  # No truncation
 }
 
 # Patterns to remove from content (subscription buttons, etc.)
@@ -78,7 +78,7 @@ def clean_content(content: str) -> str:
             cleaned.append(p)
     
     # Rejoin with proper spacing
-    return '\n\n'.join(cleaned)[:CONFIG["max_content_length"]]
+    return '\n\n'.join(cleaned)]
 
 
 def fetch_arxiv_papers(limit: int = 5) -> list:
@@ -178,7 +178,7 @@ def fetch_content_newspaper(url: str) -> str:
         pass
     
     # Final fallback
-    return fetch_news.fetch_url_content(url)[:CONFIG["max_content_length"]]
+    return fetch_news.fetch_url_content(url)
 
 
 def fetch_articles():
