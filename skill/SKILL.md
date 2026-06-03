@@ -28,12 +28,23 @@ python3 scripts/archive_daily.py
 
 | 配置项 | 值 |
 |---|---|
-| 信源 | huggingface, ai_newsletters, hackernews |
+| 信源 | arXiv Papers, AI Newsletters, Hacker News |
 | 关键词 | AI,LLM,GPT,Claude,Agent,RAG,DeepSeek |
 | 每信源文章数 | 5 篇 |
 | 仓库地址 | https://github.com/omgkill/ai_news |
 | 本地路径 | ~/ai_news |
 | 自动推送 | 是 |
+
+---
+
+## 文件位置
+
+| 位置 | 路径 | 作用 |
+|---|---|---|
+| 工作目录 | `~/.openclaw/skills/ai-news-archive/` | OpenClaw 实际执行 |
+| Git备份 | `~/ai_news/skill/` | GitHub 持久化 |
+
+**同步脚本**: `scripts/sync_skill.sh`
 
 ---
 
