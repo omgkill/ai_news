@@ -7,7 +7,7 @@
 
 ## Summary
 
-（无法获取摘要）
+Meta scales back plan for internal mouse-tracking tech, citing staff concerns
 
 ## Content
 

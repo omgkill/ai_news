@@ -7,7 +7,7 @@
 
 ## Summary
 
-ChinAI #360: Anthropic’s Dogma on US-China AI Competition ChinAI Newsletter Subscribe Sign in ChinAI #360: Anthropic’s Dogma on US-China AI Competition Jeffrey Ding May 26, 2026 70 15 12 Share Greetings from a world where… church is in session …As always, the searchable archive of all past issues is...
+<![CDATA[ChinAI #360: Anthropic’s Dogma on US-China AI Competition]]>
 
 ## Content
 

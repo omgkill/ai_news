@@ -7,7 +7,7 @@
 
 ## Summary
 
-Sign of the future: GPT-5.5 - by Ethan Mollick One Useful Thing Subscribe Sign in Sign of the future: GPT-5.5 One impressive step on the curve Ethan Mollick Apr 23, 2026 1,110 88 59 Share I had early access to GPT-5.5 1 , and I think it is a big deal. It is a big deal because it indicates that we ar...
+<![CDATA[Sign of the future: GPT-5.5 ]]>
 
 ## Content
 

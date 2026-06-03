@@ -7,7 +7,7 @@
 
 ## Summary
 
-（无法获取摘要）
+A cryptographically verifiable state-transition engine for AI systems
 
 ## Content
 
