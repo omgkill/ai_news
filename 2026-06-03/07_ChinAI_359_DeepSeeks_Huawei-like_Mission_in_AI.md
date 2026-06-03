@@ -53,7 +53,19 @@ Two ways to think about Xi-Trump Talks on AI
 
 I gave some comments that contextualize how U.S.-China cooperation in AI could take shape.
 
-For The New York Times, Vivian Wang set the table for the Trump-Xi talks on managing AI risks. Here, my view was that the goal for these talks was to send a high-level signal that allows the real work to happen at the informal, nongovernmental levels. This builds on research into how China made safety gains in other high-risk technologies, which highlighted the role of international industry associations (see: Reputation collectives: how international industry associations influence China’s safety standards in high-risk tech
+For The New York Times, Vivian Wang set the table for the Trump-Xi talks on managing AI risks. Here, my view was that the goal for these talks was to send a high-level signal that allows the real work to happen at the informal, nongovernmental levels. This builds on research into how China made safety gains in other high-risk technologies, which highlighted the role of international industry associations (see: Reputation collectives: how international industry associations influence China’s safety standards in high-risk technologies).
+
+The Economist tackled why it is difficult for states to cooperate on safety for powerful technologies. One dilemma is that sometimes sharing safety information also improves the capabilities of rivals. This was less of a problem in the Cold War because safety technologies (e.g., permissive action links) were essentially separate add-ons to weapons systems (nowadays, they are more integrated), which means you could share safety information without divulging too much about capabilities.
+
+Still, as I argued in “Keep your enemies safer: technical cooperation and transferring nuclear safety and security technologies”, there was still substantial amounts of lab-to-lab cooperation on nuclear safety and security issues even amidst fierce geopolitical rivalry. Joint verification experiments served as a fruitful channel.
+
+Thank you for reading and engaging.
+
+These are Jeff Ding’s (sometimes) weekly translations of Chinese-language musings on AI and related topics. Jeff is an Assistant Professor of Political Science at George Washington University.
+
+Check out the archive of all past issues here & please subscribe here to support ChinAI under a Guardian/Wikipedia-style tipping model (everyone gets the same content but those who can pay for a subscription will support access for all).
+
+Any suggestions or feedback? Let me know at chinainewsletter@gmail.com or on Twitter at @jjding99
 
 ## Links
 

@@ -37,7 +37,7 @@ Use your Garmin email, password, and MFA code. Tokens are saved to ~/.garminconn
 
 3. Backfill history
 
-BACKFILL_DAYS=400 python -m src.backfill
+BACKFILL_DAYS=180 python -m src.backfill
 
 Creates garmin.db . Commit it to your repo after backfill completes (re-run backfill after schema changes to refresh columns).
 
